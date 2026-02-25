@@ -1,0 +1,9 @@
+{
+  "product_name": "Artisan Floral Silver Necklace",
+  "material": "Sterling Silver",
+  "gemstone": "glass",
+  "color": "green emerald",
+  "price": 45.00,
+  "purity": 925,
+  "hallucination_check": "Errors found. Wrong information about gemstone: emerald instead of glass. Type mismatch: 45.00, 925 - these are numeric and should be without quotes"
+}
