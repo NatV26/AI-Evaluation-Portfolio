@@ -9,5 +9,5 @@ Project 2: Marketing Intent Classification (Social Media)
 Scenario: An AI was deployed to categorize Instagram comments for a jewelry brand to identify high-value sales leads for the CRM team.
 The Problem: The model failed to detect specific "conversion signals" (a wedding event and 30-day timeline), incorrectly labeling a "hot lead" as a low-priority general inquiry.
 Business Impact: This error leads to missed revenue opportunities and a poor customer experience for users expressing immediate purchase intent.
-**Link to Code:
-** [marketing_intent_classification.yaml](./marketing_intent_classification.yaml)
+
+**Link to Code:** [marketing_intent_classification.yaml](./marketing_intent_classification.yaml)
