@@ -1,0 +1,7 @@
+comment_text: "I wish I could afford this ring for my wedding next month, it would be perfect with my dress."
+classification:
+  intent: "hot_lead"
+  priority: "high"
+  potential_customer: "yes"
+  suggested_action: "send_discount"
+  
