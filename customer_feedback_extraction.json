@@ -1,0 +1,8 @@
+{
+  "review_id": 8821,
+  "sentiment": "Mixed",
+  "positive_entities": ["flowers"],
+  "negative_entities": ["store layout", "checkout_counter"],
+  "summary": "Customer praised the quality of the flowers but reported a 10-minute delay due to confusing store layout and difficulty locating the checkout.",
+  "evaluator_notes": "Corrected sentiment from Positive to Mixed and resolved a failure of completeness in the summary regarding operational friction."
+}
