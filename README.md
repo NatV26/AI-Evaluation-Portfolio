@@ -24,3 +24,10 @@ The Problem: The model violated the "No First-Person" guideline by using "I" ins
 Business Impact: Summaries using the wrong point of view (POV) appear unprofessional to readers, decreasing the conversion rate of book listings.
 
 **Link to Code:** [content_quality_rubric.yaml](./content_quality_rubric.yaml)
+
+Project 5: JSON Schema Integrity (Catalog Governance)
+Scenario: A multi-category retailer uses AI to categorize new inventory arrivals for its digital storefront.
+The Problem: The model failed to adhere to the established taxonomy, misclassifying a home scent product as jewelry. It also violated data type standards by outputting a numerical stock level as a string.
+Business Impact: This "schema drift" breaks customer search filters and prevents accurate inventory math, potentially leading to lost visibility for products or reporting errors in supply chain systems.
+
+**Link to Code:**  [inventory_schema_integrity.json](./inventory_schema_integrity.json.)
