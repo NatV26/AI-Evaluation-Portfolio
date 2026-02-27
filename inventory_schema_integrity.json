@@ -1,0 +1,8 @@
+{
+  "item_name": "Rose-Gold Hand-Poured Soy Candle",
+  "category": "Decor",
+  "sub_category": "Home Scents",
+  "stock_level": 42,
+  "price": 28.00
+}
+evaluator_notes: AI incorrect determined category of the product: instead of Decor it added Jewelry. There is also Type Mismatch: "42" - is numeric should be without quotes. 
